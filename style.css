@@ -395,6 +395,14 @@ section {
     align-items: center;
 }
 
+
+/* about-upper image */
+.about-image {
+    background-image: url("images/Picsart_25-11-22_00-00-56-593.jpg");
+    background-size: cover;
+    /* background-repeat: space; */
+}
+
 .about-image {
     width: 100%;
     aspect-ratio: 1;
@@ -999,11 +1007,4 @@ html {
         gap: 1rem;
         font-size: 0.9rem;
     }
-}
-
-
-.about-image {
-    background-image: url("images/Picsart_25-11-22_00-00-56-593.jpg");
-    background-size: cover;
-    /* background-repeat: space; */
 }
