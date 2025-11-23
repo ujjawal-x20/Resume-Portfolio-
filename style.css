@@ -400,11 +400,6 @@ section {
 
 
 /* about-upper image */
-.about-image {
-    background-image: url("images/Picsart_25-11-22_00-00-56-593.jpg");
-    background-size: cover;
-    /* background-repeat: space; */
-}
 
 .about-image {
     width: 100%;
@@ -425,6 +420,12 @@ section {
     50% {
         border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%;
     }
+}
+
+.about-image {
+    background-image: url("images/Picsart_25-11-22_00-00-56-593.jpg");
+    background-size: cover;
+    /* background-repeat: space; */
 }
 
 .about-text {
